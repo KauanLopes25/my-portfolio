@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    width: 100vw;
+    height: 100vh;
+}
+ul {
+    list-style-type: disc; /* ou 'circle', 'square', etc. */
+    margin-left: 20px;     /* adiciona um recuo */
+  }
